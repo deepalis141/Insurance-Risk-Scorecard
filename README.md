@@ -58,7 +58,7 @@ insurance-risk-scorecard/
 │   ├── policy_metrics.csv
 │   ├── policy_risk_scores.csv
 │   └── top100_high_risk.csv
-├── notebooks/
+├── notebook/
 │   └── scoring.ipynb
 ├── sql/
 │   ├── create_policy_metrics.sql
