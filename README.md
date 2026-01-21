@@ -1,19 +1,3 @@
-# Insurance-Risk-Scorecard
-Insurance Risk Scorecard built using SQL, Python, and Tableau. Includes data pipeline, risk scoring, NTILE tiers, and dashboard.
-
-
-Below is the **final complete README.md** you can copy–paste **directly into GitHub**.
-
-It is rewritten cleanly, professionally, and optimized for a **portfolio project**.
-Just go to:
-
-**Repo → README.md → Edit (pencil icon) → Paste → Commit.**
-
----
-
-# ✅ **COPY–PASTE THIS ENTIRE README.md INTO GITHUB**
-
-```markdown
 # Insurance Risk Scorecard — SQL + Python + Tableau
 
 This project builds an **Insurance Risk Scorecard** that ranks policies by risk based on **severity**, **frequency**, and **fraud probability**. It demonstrates an end-to-end analytics workflow combining **Python**, **MySQL**, and **Tableau**.  
