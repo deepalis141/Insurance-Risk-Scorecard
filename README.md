@@ -150,9 +150,7 @@ Screenshots of:
 * `heatmap.png`
 * `top100_table.png`
 
-> If you publish on Tableau Public, add the link here.
 
----
 
 ## 📈 Key Insights (Example Findings)
 
