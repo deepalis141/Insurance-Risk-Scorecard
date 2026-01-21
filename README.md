@@ -211,8 +211,3 @@ Use:
 Deepali Sharma
 https://www.linkedin.com/in/deepali007
 
----
-
-```
-# END OF README
-```
